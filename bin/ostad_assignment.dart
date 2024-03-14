@@ -1,4 +1,3 @@
-import 'package:ostad_assignment/ostad_assignment.dart' as ostad_assignment;
 
 class Media {
   void play() {
